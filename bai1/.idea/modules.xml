@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/bai1.iml" filepath="$PROJECT_DIR$/bai1.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Bai1buoi3.java.iml" filepath="$PROJECT_DIR$/Bai1buoi3.java.iml" />
+>>>>>>> e469993 (Buoi3)
     </modules>
   </component>
 </project>
